@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 95c402c6bd6b0294db39847d4596fcd9
+timeCreated: 1499364306
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: DoorsLevel1
+    100004: DoorsLevel2
+    100006: DoorsLevel3
+    100008: Flag
+    100010: FlagHolder
+    100012: GateHouse
+    100014: //RootNode
+    100016: GateLeft
+    100018: GateRight
+    100020: GateTop
+    100022: Lamp
+    100024: Lamp_001
+    100026: Lamp_002
+    100028: Lamp_003
+    100030: MetalDoors
+    100032: PortcullisBack
+    100034: PortcullisFront
+    100036: Trapdoors
+    400000: Camera
+    400002: DoorsLevel1
+    400004: DoorsLevel2
+    400006: DoorsLevel3
+    400008: Flag
+    400010: FlagHolder
+    400012: GateHouse
+    400014: //RootNode
+    400016: GateLeft
+    400018: GateRight
+    400020: GateTop
+    400022: Lamp
+    400024: Lamp_001
+    400026: Lamp_002
+    400028: Lamp_003
+    400030: MetalDoors
+    400032: PortcullisBack
+    400034: PortcullisFront
+    400036: Trapdoors
+    2300000: DoorsLevel1
+    2300002: DoorsLevel2
+    2300004: DoorsLevel3
+    2300006: Flag
+    2300008: FlagHolder
+    2300010: GateHouse
+    2300012: GateLeft
+    2300014: GateRight
+    2300016: GateTop
+    2300018: MetalDoors
+    2300020: PortcullisBack
+    2300022: PortcullisFront
+    2300024: Trapdoors
+    3300000: DoorsLevel1
+    3300002: DoorsLevel2
+    3300004: DoorsLevel3
+    3300006: Flag
+    3300008: FlagHolder
+    3300010: GateHouse
+    3300012: GateLeft
+    3300014: GateRight
+    3300016: GateTop
+    3300018: MetalDoors
+    3300020: PortcullisBack
+    3300022: PortcullisFront
+    3300024: Trapdoors
+    4300000: DoorsLevel2
+    4300002: GateHouse
+    4300004: DoorsLevel3
+    4300006: PortcullisBack
+    4300008: PortcullisFront
+    4300010: Flag
+    4300012: FlagHolder
+    4300014: Trapdoors
+    4300016: MetalDoors
+    4300018: DoorsLevel1
+    4300020: GateTop
+    4300022: GateLeft
+    4300024: GateRight
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
